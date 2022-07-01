@@ -1,9 +1,11 @@
-# min(DALL·E)
+# min(DALL·E) Flax
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuprel/min-dalle/blob/main/min_dalle.ipynb) &nbsp;
 [![Replicate](https://replicate.com/kuprel/min-dalle/badge)](https://replicate.com/kuprel/min-dalle)
 
 This is a minimal implementation of Boris Dayma's [DALL·E Mini](https://github.com/borisdayma/dalle-mini) in flax.  It has been stripped to the bare essentials necessary for doing inference.  This repository also contains code for converting the flax model to torch.
+
+See [min(DALL·E)](https://github.com/kuprel/min-dalle) for the PyTorch version.
 
 ### Setup
 
