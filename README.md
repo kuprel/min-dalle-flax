@@ -17,4 +17,3 @@ Run `sh setup.sh` to install dependencies and download pretrained models.  The f
 ### Usage
 
 Use the python script `image_from_text.py` to generate images from the command line.  Note: the command line script loads the models and parameters each time.  To load a model once and generate multiple times, initialize `MinDalleFlax`, then call `generate_image` with some text and a seed.
-# min-dalle-flax
